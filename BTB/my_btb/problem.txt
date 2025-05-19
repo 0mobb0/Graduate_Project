@@ -1,0 +1,3 @@
+
+>>>>> Running BTB Capacity Test (Max entries: 1024, Max interval: 31)
+BTB test running interval: 0
